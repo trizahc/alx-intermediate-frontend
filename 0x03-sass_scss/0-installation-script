@@ -1,0 +1,17 @@
+Steps to install Sass:
+
+1. Cloned the repository:
+   git clone https://github.com/trizahc/alx-intermediate-frontend.git
+
+2. Navigated into the directory:
+   cd alx-intermediate-frontend
+
+3. Created a new directory for Sass files:
+   mkdir 0x03-sass_scss
+   cd 0x03-sass_scss
+
+4. Installed Sass using npm (latest version):
+   npm install sass
+
+5. Verified the installation by running:
+   npx sass --version
